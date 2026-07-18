@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/toto-inu/toto-inu/master/profile-summary-card-output/ocean_dark/2-most-commit-language.svg)
+```
+
+    
